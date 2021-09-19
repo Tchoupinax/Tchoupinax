@@ -1,8 +1,8 @@
 # I'm a dragonfly 🐉
 
-## Who am i ?
+## Who am I ?
 
-Hello i'm Tchoupinax ! 🦄 I am a Javascript developer who loves architecture. [Tilt](https://tilt.dev/) addict.
+Hello I'm Tchoupinax ! 🦄 I am a Javascript developer who loves architecture. [Tilt](https://tilt.dev/) addict.
 
 ## Notables projects
 
@@ -13,3 +13,9 @@ Hello i'm Tchoupinax ! 🦄 I am a Javascript developer who loves architecture. 
 - [postgres-stats](https://github.com/Tchoupinax/postgres-stats) - Postgres stats is a dashboard to analyze your Postgres database and speed up you app 
 - [traefik-custom-error-pages](https://github.com/Tchoupinax/traefik-custom-error-pages) - Rewrite a give up project I love with Hugo 💚
 - [releases](http://releases.corentinfiloche.xyz/) - A feed to see open source project's release
+
+## Activity
+
+I'm active on Github for public/community project but the main part of my projects are hosted privatly. I love [Gitea](https://github.com/go-gitea/gitea) for that ! 🖤
+
+![image](https://user-images.githubusercontent.com/9136206/133917420-dd4bb504-9f84-41ee-96e5-f08aba7c5908.png)
