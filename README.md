@@ -2,7 +2,7 @@
 
 ## Who am I ?
 
-Hello I'm Tchoupinax ! 🦄 I am a Javascript developer who loves architecture. [Tilt](https://tilt.dev/) addict.
+Hello I'm Tchoupinax ! 🦄 I am a software engineer who loves architecture. [Tilt](https://tilt.dev/) addict.
 
 ## Notables projects
 
