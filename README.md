@@ -6,7 +6,7 @@ Hello I'm Tchoupinax ! 🦄 I am a software engineer who loves architecture. [Ti
 
 ## Notables projects
 
-- [skopeo-operator](https://github.com/Tchoupinax/skopeo-operator) — Copy Docker image to your own registry at scale!
+- [image-operator](https://github.com/Tchoupinax/skopeo-operator) — Image operator allow to copy and build image from your Kubernetes cluster
 - [k8s-labels-migrator](https://github.com/Tchoupinax/k8s-labels-migrator) — Your favorite tool to migrate labels on your deploy without any downtime
 - [fuzzy-engine](https://github.com/Tchoupinax/fuzzy-engine) — A Simple and powerful interface to manager your private Docker registry 🐳
 - [s3-prometheus-exporter](https://github.com/Tchoupinax/s3-prometheus-exporter) — A Prometheus exporter with severa metrics about your S3 bucket 🗳️
