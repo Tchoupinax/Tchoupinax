@@ -22,3 +22,5 @@ Hello I'm Tchoupinax ! 🦄 I am a software engineer who loves architecture. [Ti
 I'm active on Github for public/community project but the main part of my projects are hosted privatly. I love [Gitea](https://github.com/go-gitea/gitea) for that ! 🖤
 
 ![image](https://user-images.githubusercontent.com/9136206/133917420-dd4bb504-9f84-41ee-96e5-f08aba7c5908.png)
+
+![image](https://api.githubtrends.io/user/svg/Tchoupinax/repos?time_range=one_year&group=other&theme=bright_lights)
